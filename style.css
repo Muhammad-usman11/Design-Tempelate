@@ -1,0 +1,68 @@
+.header{
+    background-color: rgb(70, 67, 67);
+    height: 55vh;
+    width: 100vw;
+}
+.header-title{
+    
+    color: white;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+.header-title h1 {
+    font-weight: bold;
+}
+.header-title h6 {
+    font-weight: bold;
+    font-size: large;
+}
+.section-2{
+    margin-top: 30px;
+}
+.first-post{
+    margin-left: 15px;
+    border: 1px grey solid;
+    height: 40vh;
+    width: 27vw;
+}
+.first-thubnail{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    height: 40vh;
+    width: 20vw;
+    padding-top:100px;
+}
+.seconde-post{
+    margin-left: 50px;
+    border: 1px grey solid;
+    height: 40vh;
+    width: 27vw;
+}
+.seconde-thubnail{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    height: 40vh;
+    width: 21vw;
+    padding-top:100px;
+}
+.world{
+    color: blue;
+}
+.featured-post{
+    font-weight: bold;
+}
+.nov{
+    color: grey;
+    font-size: small;
+}
+.countinue{
+    color: blue;
+}
+.design{
+    color: green;
+}
+.post-title{
+    font-weight: bold;
+}
