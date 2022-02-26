@@ -11,6 +11,9 @@
 }
 .header-title h1 {
     font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
 .header-title h6 {
     font-weight: bold;
@@ -49,6 +52,7 @@
 }
 .world{
     color: blue;
+    font-weight: bold;
 }
 .featured-post{
     font-weight: bold;
@@ -62,7 +66,67 @@
 }
 .design{
     color: green;
+    font-weight: bold;
 }
 .post-title{
     font-weight: bold;
+}
+.section-3{
+    margin-top: 30px;
+}
+.firehose{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.sample{
+    font-weight: bold;
+}
+.mark{
+    color: gray;
+    font-size: medium;
+    margin-top: -3px;
+    background-color: white;
+}
+.box-1{
+    background-color: rgb(248, 245, 245);
+    padding-left: 15px;
+    padding-top: 10px;
+}
+.about{
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+}
+.archives{
+    margin-top: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+}
+.month-name{
+    color: rgb(17, 17, 236);
+    font-size: large;
+}
+.elsewhre{
+    margin-top: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+}
+.accounts{
+    color: rgb(17, 17, 236);
+    font-size: large;
+}
+.button{
+    color: blue;
+    text-align: center;
+    text-decoration: none;
+    border: 1px blue solid;
+    background-color: white;
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 22px;
+
 }
